@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Assalamu Alaikum! I'm Sherzod  
 
-<!--
-**SherSarkarov/SherSarkarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Java Novice Developer**
 
-Here are some ideas to get you started:
+## 💡 About Me  
+🖥 **Novice Java Developer** | Completed a **3-month (90-hour) Java course**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+- **Java 8**
+
+## 📂 Portfolio  
+🔗 **GitHub**: [shersarkarov.github.io](https://shersarkarov.github.io/)  
+
+## 📞 Contacts  
+📧 **Email**: *shersarkarov1@gmail.com*  
+📱 **Phone**: **+998 91 350 04 15**  
+💬 **Telegram**: @sarkarov_777  
