@@ -5,7 +5,7 @@
 
 ## 💡 About Me  
 🖥 **Novice Java Developer** | Completed a **3-month (90-hour) Java course**  
-🖥 **Novice web Developer** | Completed a **6-month web course**  
+🖥 **Novice web Developer** | Completed a **6-month web course** end in april/may 2026-year  
 
 ## 🛠 Tech Stack  
 - **Java 8**, **html-5**
