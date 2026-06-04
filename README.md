@@ -1,6 +1,6 @@
 # 👋 Assalamu Alaikum! I'm Sherzod  
 
-🚀 **web Novice Developer**
+🚀 **Novice Web Developer**
 
 ## 💡 About Me  
 🖥 **Novice web Developer** | Completed a **6-month web course html-5, js and react**
