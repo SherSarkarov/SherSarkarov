@@ -6,7 +6,7 @@
 🖥 **Novice web Developer** | Completed a **6-month web course html-5, js and react**
 
 ## 🛠 Tech Stack  
-**html-5**, **react**
+**HTML-5**, **CSS**, **JS**, **REACT**
 
 ## 📂 Portfolio  
 🔗 **GitHub**: [shersarkarov.github.io](https://shersarkarov.github.io/)  
@@ -15,3 +15,6 @@
 📧 **Email**: **shersarkarov1@gmail.com**,**sherzodsarkarov008@gmail.com** 
 📱 **Phone**: **+998 91 350 04 15** **in uzb** 
 💬 **Telegram**: @sarkarcv
+
+## 📜 certificates
+**OMP AI STUDY** (https://omp.aistudy.uz/certificate?id=e3471bd3-2869-4709-ac41-5fb0cd59edd0)
