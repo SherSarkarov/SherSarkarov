@@ -14,7 +14,7 @@
 ## 📞 Contacts  
 📧 **Email**: **shersarkarov1@gmail.com**,**sherzodsarkarov008@gmail.com** <br>
 📱 **Phone**: **+998 91 350 04 15** **in uzb**<br>
-💬 **Telegram**: [@sarkarcv](https://t.me/@sarkarcv) , [@sarkarovss](https://t.me/@sarkarovss)<br>
+💬 **Telegram**: [@sarkarcv](https://t.me/sarkarcv) , [@sarkarovss](https://t.me/@sarkarovss)<br>
 💬 **my channel** : [t.me/sarkarovs](https://t.me/sarkarovs)
 
 ## 📜 certificates
