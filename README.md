@@ -18,5 +18,5 @@
 💬 **my channel** : [sarkarovs](https://t.me/sarkarovs)
 
 ## 📜 certificates
-**OMP AI STUDY** (https://omp.aistudy.uz/certificate?id=e3471bd3-2869-4709-ac41-5fb0cd59edd0) <br>
+**OMP AI STUDY** [from ai😁](https://omp.aistudy.uz/certificate?id=e3471bd3-2869-4709-ac41-5fb0cd59edd0) <br>
 **and in my Telegram channel have a photo of my certificate about html, css , js , react , bootstrap , scss**
